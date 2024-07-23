@@ -3,7 +3,7 @@ import tkinter
 import tkinter.messagebox
 
 '''
-타이머 추가
+타이머 추가 해야함
 '''
 
 brd = tkinter.Tk()
